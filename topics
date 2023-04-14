@@ -1,0 +1,11 @@
+Java 5 features
+======================
+Enhanced for-each loop
+Autoboxing/unboxing
+static import Statement
+Varargs (Variable Arguments)
+Co-varient retrun type
+Enumerations
+Annotations
+Generics
+Java util concurrency(juc)
